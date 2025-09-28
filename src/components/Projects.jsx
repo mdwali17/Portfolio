@@ -10,7 +10,7 @@ const projects = [
   {
     title: 'Portfolio Website',
     description: 'Personal portfolio site showcasing projects and skills.',
-    demo: 'mohdwaliportfolio.netlify.app',
+    demo:'https://mohdwaliportfolio.netlify.app/',
     code: '#'
   },
   {

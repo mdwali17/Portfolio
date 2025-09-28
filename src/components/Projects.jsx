@@ -42,7 +42,7 @@ function Projects() {
             <h3 className="text-xl font-bold mb-2">{project.title}</h3>
             <p className="text-gray-800 mb-4">{project.description}</p>
             <a href={project.demo} className="text-blue-800 hover:underline mr-4">Live Demo</a>
-            <a href={project.code} className="text-blue-800 hover:underline">Code</a>
+            {/* <a href={project.code} className="text-blue-800 hover:underline">Code</a> */}
           </motion.div>
         ))}
       </div>

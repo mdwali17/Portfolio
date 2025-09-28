@@ -14,9 +14,9 @@ const projects = [
     code: '#'
   },
   {
-    title: 'Weather App',
-    description: 'Weather app using OpenWeather API and React.',
-    demo: '#',
+    title: 'VoteSphere',
+    description: 'Voting Application using Node and React.',
+    demo: 'https://votingapp17.netlify.app/',
     code: '#'
   },
 ];

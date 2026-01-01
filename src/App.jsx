@@ -5,8 +5,8 @@ import Projects from './components/Projects';
 import Navbar from './components/Navbar';
 import Contact from './components/Contact';
 import Cursor from './components/Cursor';
-
-
+import Skills from './components/Skills';
+import Experience from './components/Experience';
 function App() {
   return (
     <div className='cursor-pointer'>
@@ -15,7 +15,9 @@ function App() {
     <div className="bg-gray-800 text-slate-800 ">
       <Hero />
       <About />
+      <Skills/>
       <Projects />
+      <Experience/>
       <Contact/>
     </div>
     </div>

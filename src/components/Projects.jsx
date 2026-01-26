@@ -4,9 +4,9 @@ import React from "react";
 const projects = [
   {
     title: "Task App",
-    description: "A modern task management app built with React.",
-    demo: "https://taskapp-460z.onrender.com",
-    tech: ["React", "CSS"],
+    description: "A modern task management app built with Spring Boot & React.",
+    demo: "https://task-application-three.vercel.app/",
+    tech: ["React", "MongoDB","SpringBoot"],
   },
   {
     title: "Portfolio Website",

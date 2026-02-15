@@ -79,28 +79,44 @@ function About() {
           {/* 📝 Text */}
           <motion.div variants={item} className="flex-1">
             <p className="text-slate-400 text-lg leading-relaxed">
-              Hi, I'm{" "}
-              <span className="text-sky-400 font-semibold">Mohd Wali</span> — a
-              passionate frontend developer focused on building{" "}
-              <span className="text-sky-400">interactive</span>,{" "}
-              <span className="text-sky-400">responsive</span>, and{" "}
-              <span className="text-sky-400">high-performance</span> web
-              experiences using{" "}
-              <span className="text-sky-400">React</span>,{" "}
-              <span className="text-sky-400">Tailwind CSS</span>, and{" "}
-              <span className="text-sky-400">JavaScript</span>.
-              <br />
-              <br />
-              I love crafting smooth UI animations, modern layouts, and clean
-              component architectures. I enjoy learning new tools and pushing
-              the limits of frontend performance and design.
-              <br />
-              <br />
-              Currently seeking opportunities as a{" "}
-              <span className="text-sky-400">Frontend</span> or{" "}
-              <span className="text-sky-400">React Developer</span> — let’s build
-              something impactful together.
-            </p>
+  Hi, I'm{" "}
+  <span className="text-sky-400 font-semibold">Mohd Wali</span> — a
+  passionate full-stack developer focused on building{" "}
+  <span className="text-sky-400">scalable</span>,{" "}
+  <span className="text-sky-400">secure</span>, and{" "}
+  <span className="text-sky-400">high-performance</span> web applications using{" "}
+  <span className="text-sky-400">React</span>,{" "}
+  <span className="text-sky-400">Node.js</span>,{" "}
+  <span className="text-sky-400">Spring Boot</span>, and{" "}
+  <span className="text-sky-400">MongoDB</span>.
+  <br />
+  <br />
+  On the frontend, I create{" "}
+  <span className="text-sky-400">interactive</span>,{" "}
+  <span className="text-sky-400">responsive</span>, and{" "}
+  <span className="text-sky-400">modern</span> user interfaces using{" "}
+  <span className="text-sky-400">React</span>,{" "}
+  <span className="text-sky-400">Tailwind CSS</span>, and{" "}
+  <span className="text-sky-400">JavaScript</span>. On the backend, I develop{" "}
+  <span className="text-sky-400">REST APIs</span>, implement{" "}
+  <span className="text-sky-400">JWT authentication</span>, and build secure
+  server-side applications with{" "}
+  <span className="text-sky-400">Node.js</span> and{" "}
+  <span className="text-sky-400">Spring Boot</span>.
+  <br />
+  <br />
+  I enjoy building complete end-to-end applications, solving real-world
+  problems, and continuously learning new technologies to improve performance,
+  scalability, and user experience.
+  <br />
+  <br />
+  Currently seeking opportunities as a{" "}
+  <span className="text-sky-400">Full-Stack Developer</span>,{" "}
+  <span className="text-sky-400">Backend Developer</span>, or{" "}
+  <span className="text-sky-400">React Developer</span> — let’s build something
+  impactful together.
+</p>
+
           </motion.div>
 
           {/* 🧲 Avatar with 3D tilt */}

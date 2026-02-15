@@ -91,10 +91,7 @@ function Hero() {
           <span className="text-sky-400 font-semibold">
             <Typewriter
               words={[
-                "Frontend Developer",
-                "React Developer",
-                "UI Engineer",
-                "Next.js Developer",
+                "Full-Stack Developer"
               ]}
               loop
               cursor
